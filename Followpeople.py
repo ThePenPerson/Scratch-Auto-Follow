@@ -12,7 +12,7 @@ if message == "yes":
     pause = float(input("Enter a pause value (0.1 or 0.01 is good. Make sure value is a number): "))
     length = int(input("Enter the amount of people you want to follow(Maximum is 1065092): "))
     message = input("Are you SURE you want to do this?(enter yes to continue...): ")
-        if message == "yes":
+    if message == "yes":
         print("Starting in 5 seconds...")
         time.sleep(5)
         for x in range(length):
