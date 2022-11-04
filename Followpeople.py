@@ -9,7 +9,7 @@ if message == "yes":
     print("Welcome to 1 million scratcher programme...")
     print("Do you want there to be a pause between following people?")
     print("(for example a pause of 1 would take 1 million seconds to complete...")
-    pause = float(input("Enter a pause value (0.1 or 0.01 is good. Make sure value is a number): "))
+    pause = float(input("Enter a pause value (10 or 15 is good. Make sure value is a number): "))
     length = int(input("Enter the amount of people you want to follow(Maximum is 1065092): "))
     message = input("Are you SURE you want to do this?(enter yes to continue...): ")
     if message == "yes":
@@ -18,9 +18,8 @@ if message == "yes":
         for x in range(length):
             name = file.readline().strip()
             login.follow_user(username=name)
-            time.sleep(pause)
             print(str(name)+ " followed. Total followed: " + str(x+1))
-                        
+            time.sleep(pause)      
                             
               
 
