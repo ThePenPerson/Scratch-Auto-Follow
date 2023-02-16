@@ -1,9 +1,6 @@
 # Scratch-Auto-Follow
 Welcome to the Scratch Auto Follow Code Instructions!
-If you need any help you can contact me via Scratch: 
-https://scratch.mit.edu/users/ScratchConnectBot/
 
-Anyway, lets get to it!
 -----------------------------------------------------------
 Firstly download or copy the code from here. 
 you can use the code in whatever way you like just as long you credit me 
