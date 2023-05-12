@@ -28,7 +28,7 @@ There are only two issues with this code...
 
 2. The Scratch moderators do not like you doing 'social actions' so usally your ip adress gets banned. I would recommed using an VPN. It could also result in you getting a ban from the scratch team and your account may get deleted.
 
-IF ANY OF THESE THINGS HAPPEN TO YOU IT IS NOT MY RESPONSIBILITY AND IT WAS YOUR FAULT FOR DOING IT. YOU CANNOT PUT THE BLAME ON ME.
+IF ANY OF THESE THINGS HAPPEN TO YOU IT IS NOT MY RESPONSIBILITY AND IT WAS YOUR FAULT FOR DOING IT. BY RUNNING THIS CODE YOU AGREE TO THIS.
 
 
 
