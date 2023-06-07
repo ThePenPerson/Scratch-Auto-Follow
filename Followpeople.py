@@ -1,3 +1,5 @@
+#this code is so bad
+
 import scratchconnect
 import time
 file = open("usernames.txt", "r+")
