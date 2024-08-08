@@ -30,5 +30,5 @@ There are only two issues with this code...
 
 IF ANY OF THESE THINGS HAPPEN TO YOU IT IS NOT MY RESPONSIBILITY AND IT WAS YOUR FAULT FOR DOING IT. BY RUNNING THIS CODE YOU AGREE TO THIS.
 
-
+To fix the error in the code where it tries to follow somebody but they have deleted their account go into the scatchconnect module and delete the bit where it raises the error
 
